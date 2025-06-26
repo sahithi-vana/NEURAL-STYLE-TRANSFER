@@ -75,19 +75,19 @@ Saved as stylized_output.jpg in the current directory
 
 # output
 
-<h3 align="center">Neural Style Transfer Results</h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <div>
-    <p align="center"><b>Style Image</b></p>
-    <img src="https://github.com/user-attachments/assets/0c0b0afd-d481-4dc3-a59f-36709fead1f1" width="300"/>
-  </div>
-  <div>
-    <p align="center"><b>Content Image</b></p>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <div style="text-align: center;">
+    <b>Style Image</b><br>
     <img src="https://github.com/user-attachments/assets/6ab22524-1e7c-40fe-bf7b-86319dcfcd0d" width="300"/>
   </div>
-  <div>
-    <p align="center"><b>Stylized Image</b></p>
+  <div style="text-align: center;">
+    <b>Content Image</b><br>
+    <img src="https://github.com/user-attachments/assets/0c0b0afd-d481-4dc3-a59f-36709fead1f1" width="300"/>
+  </div>
+  <div style="text-align: center;">
+    <b>Stylized Image</b><br>
     <img src="https://github.com/user-attachments/assets/54202a62-7aea-451e-af51-533b839a2f23" width="300"/>
   </div>
 </div>
