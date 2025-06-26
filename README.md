@@ -76,20 +76,16 @@ Saved as stylized_output.jpg in the current directory
 # output
 
 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <div style="text-align: center;">
-    <b>Style Image</b><br>
-    <img src="https://github.com/user-attachments/assets/6ab22524-1e7c-40fe-bf7b-86319dcfcd0d" width="300"/>
-  </div>
-  <div style="text-align: center;">
-    <b>Content Image</b><br>
-    <img src="https://github.com/user-attachments/assets/0c0b0afd-d481-4dc3-a59f-36709fead1f1" width="300"/>
-  </div>
-  <div style="text-align: center;">
-    <b>Stylized Image</b><br>
-    <img src="https://github.com/user-attachments/assets/54202a62-7aea-451e-af51-533b839a2f23" width="300"/>
-  </div>
-</div>
-
+<table align="center">
+  <tr>
+    <th>Content Image</th>
+    <th>Style Image</th>
+    <th>Stylized Image</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0c0b0afd-d481-4dc3-a59f-36709fead1f1" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6ab22524-1e7c-40fe-bf7b-86319dcfcd0d" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/54202a62-7aea-451e-af51-533b839a2f23" width="300"/></td>
+  </tr>
+</table>
 
